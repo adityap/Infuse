@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ApplicationIcon>infuse-logo.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="abc\**" />
+    <Compile Remove="Exceptions\**" />
+    <Compile Remove="final1\**" />
+    <Compile Remove="final\**" />
+    <Compile Remove="tiny\**" />
+    <EmbeddedResource Remove="abc\**" />
+    <EmbeddedResource Remove="Exceptions\**" />
+    <EmbeddedResource Remove="final1\**" />
+    <EmbeddedResource Remove="final\**" />
+    <EmbeddedResource Remove="tiny\**" />
+    <None Remove="abc\**" />
+    <None Remove="Exceptions\**" />
+    <None Remove="final1\**" />
+    <None Remove="final\**" />
+    <None Remove="tiny\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Contract\IRegister.cs" />
+    <Compile Remove="Core\RegisterManger - Copy.cs" />
+    <Compile Remove="IInfuser.cs" />
+  </ItemGroup>
+
+</Project>
