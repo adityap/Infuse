@@ -19,6 +19,8 @@
       <li><code>container.Register<<i>TInterface</i>,<i>TConcrete</i>>()</code>. The default Lifecycle of the objects registered 
       this way is <code>Lifecycle.Transient</code></li>
       <li><code>container.Register<<i>TInterface</i>,<i>TConcrete</i>>(LifecycleType type)</code></li>
+      <li><code>container.RegisterSingleton<<i>TInterface</i>,<i>TConcrete</i>>()</code>. An Extension method</li>
+      <li><code>container.RegisterTransient<<i>TInterface</i>,<i>TConcrete</i>>()</code>. An Extension method</li>
       <li>Registration takes care of notifying if an <code>TInterface</code> is already registered in the container</li>
     </ul>
     <li>Resolve Types. Multiple ways to do so - </li>
@@ -68,5 +70,7 @@
     <li>Support non-public constructors for type resolution</li>
     <li>Explore possibility of other DI injection kinds e.g.: Setter injection</li>
     <li>Publish <i>Infuse</i> to the Nuget for package management</li>
+    <li>Explore the possibility to refactor the code to use a version of <i>Infuse</i> library to achieve DI for <i>Infuse</i></li>
+    <li>Create easy to use extensions for using <i>Infuse</i> with different project types. This will be similar to what other container libraries do</li>
 </ul>
 </p>
