@@ -59,3 +59,14 @@
     </ul>
   </ul>
 </p>
+
+<h3>Future</h3>
+<p>
+  <ul>
+    <li>Add sample usage for a ASP.NET Core Web project</li>
+    <li>Introduce new options for <code>LifecycleType</code></li>
+    <li>Support non-public constructors for type resolution</li>
+    <li>Explore possibility of other DI injection kinds e.g.: Setter injection</li>
+    <li>Publish <i>Infuse</i> to the Nuget for package management</li>
+</ul>
+</p>
