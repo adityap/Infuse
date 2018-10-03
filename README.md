@@ -72,5 +72,6 @@
     <li>Publish <i>Infuse</i> to the Nuget for package management</li>
     <li>Explore the possibility to refactor the code to use a version of <i>Infuse</i> library to achieve DI for <i>Infuse</i></li>
     <li>Create easy to use extensions for using <i>Infuse</i> with different project types. This will be similar to what other container libraries do</li>
+    <li>Add API documentation</li>
 </ul>
 </p>
