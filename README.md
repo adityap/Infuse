@@ -1,7 +1,8 @@
 # Infuse
-<div style="font:bold"> An Simple IoC container made for educational purposes!</div>
+<p style="font:bold"> <image src="https://github.com/adityap/Infuse/blob/master/src/Infuse/infuse-logo.ico" height="20" width="20" /> <i>Infuse</i> is a simple IoC container made for educational purposes!</p>
 
 <h3>Infuse IoC Purpose & Features</h3>
+
 <p>
   This purpose of this project is to serve as an educational greed for one to understand the internals of how IoC containers might work. 
   The implementation is very general and should not be used in actual production apps.   It does not mimic the likes of better containers
