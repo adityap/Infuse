@@ -1,5 +1,5 @@
 # Infuse
-<p style="font:bold"> <image src="https://github.com/adityap/Infuse/blob/master/src/Infuse/infuse-logo.ico" height="20" width="20" /> <i>Infuse</i> is a simple IoC container made for educational purposes!</p>
+<p style="font:bold"> <image alt="" src="https://github.com/adityap/Infuse/blob/master/src/Infuse/infuse-logo.ico" height="20" width="20" /> <i>Infuse</i> is a simple IoC container made for educational purposes!</p>
 
 <h3>Infuse IoC Purpose & Features</h3>
 
